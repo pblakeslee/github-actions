@@ -1,0 +1,31 @@
+h1{
+    background-color: lavender;
+    padding: 20px;
+    margin: 0;
+    font-family: Quicksand;
+}
+
+body{
+    height: 200vh;
+    margin: 0;
+}
+
+#main{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    border: 1px solid black;
+}
+
+#main p{
+    margin: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    font-family: Quicksand;
+    font-weight: 400;
+}
+
+#main img{
+    max-width: 120px;
+}
